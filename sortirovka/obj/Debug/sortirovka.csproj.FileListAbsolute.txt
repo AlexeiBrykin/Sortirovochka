@@ -1,0 +1,7 @@
+E:\siSharpProject\sortirovka\sortirovka\sortirovka\bin\Debug\sortirovka.exe.config
+E:\siSharpProject\sortirovka\sortirovka\sortirovka\bin\Debug\sortirovka.exe
+E:\siSharpProject\sortirovka\sortirovka\sortirovka\bin\Debug\sortirovka.pdb
+E:\siSharpProject\sortirovka\sortirovka\sortirovka\obj\Debug\sortirovka.csprojAssemblyReference.cache
+E:\siSharpProject\sortirovka\sortirovka\sortirovka\obj\Debug\sortirovka.csproj.CoreCompileInputs.cache
+E:\siSharpProject\sortirovka\sortirovka\sortirovka\obj\Debug\sortirovka.exe
+E:\siSharpProject\sortirovka\sortirovka\sortirovka\obj\Debug\sortirovka.pdb
