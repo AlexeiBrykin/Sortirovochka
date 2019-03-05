@@ -5,3 +5,10 @@ E:\siSharpProject\sortirovka\sortirovka\sortirovka\obj\Debug\sortirovka.csprojAs
 E:\siSharpProject\sortirovka\sortirovka\sortirovka\obj\Debug\sortirovka.csproj.CoreCompileInputs.cache
 E:\siSharpProject\sortirovka\sortirovka\sortirovka\obj\Debug\sortirovka.exe
 E:\siSharpProject\sortirovka\sortirovka\sortirovka\obj\Debug\sortirovka.pdb
+E:\siSharpProject\Sortirovochka\sortirovka\obj\Debug\sortirovka.csprojAssemblyReference.cache
+E:\siSharpProject\Sortirovochka\sortirovka\obj\Debug\sortirovka.csproj.CoreCompileInputs.cache
+E:\siSharpProject\Sortirovochka\sortirovka\obj\Debug\sortirovka.exe
+E:\siSharpProject\Sortirovochka\sortirovka\obj\Debug\sortirovka.pdb
+E:\siSharpProject\Sortirovochka\sortirovka\bin\Debug\sortirovka.exe.config
+E:\siSharpProject\Sortirovochka\sortirovka\bin\Debug\sortirovka.exe
+E:\siSharpProject\Sortirovochka\sortirovka\bin\Debug\sortirovka.pdb
